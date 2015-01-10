@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Geex.Edit.Rpg.MapView
+{
+    /// <summary>
+    /// Represents the drawing mode
+    /// </summary>
+    public enum DrawMode
+    {
+        Pen,
+        Rectangle,
+        FloodFill
+    }
+    /// <summary>
+    /// Object owned by the controler which defines its state
+    /// (draw mode : square, point etc...)
+    /// </summary>
+    public class RpgControlerState
+    {
+        #region Variables
+        DrawMode m_drawMode = DrawMode.Rectangle;
+        #endregion
+
+        #region Properties
+        /// <summary>Drawing mode</summary>
+        public DrawMode DrawMode
+        {
+            get { return m_drawMode;  }
+            set { m_drawMode = value; }
+        }
+        #endregion
+    }
+}

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ACF37CDC-3486-4222-9176-AE3A400AADD9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UeFGame</RootNamespace>
+    <AssemblyName>Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Geex\Geex.Edit\Geex.Edit\Geex.Edit\bin\x86\Debug\Modules\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FarseerPhysics, Version=3.3.4972.18845, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\[DLL]\FarseerPhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cache\RessourceCache.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="ContentReaders\TilesetDataReader.cs" />
+    <Compile Include="ContentReaders\MapDataReader.cs" />
+    <Compile Include="DrawingDepths.cs" />
+    <Compile Include="DrawingRoutines.cs" />
+    <Compile Include="Editor\Bitmap.cs" />
+    <Compile Include="Editor\GameObjectRenderOptions.cs" />
+    <Compile Include="GameComponents\GameHUD.cs" />
+    <Compile Include="GameComponents\GameMap.cs" />
+    <Compile Include="GameComponents\HUDComponent.cs" />
+    <Compile Include="GameComponents\HUDComponents\MessageComponent.cs" />
+    <Compile Include="GameComponents\TileMaskOld.cs" />
+    <Compile Include="GameComponents\TileMaterial.cs" />
+    <Compile Include="GameComponents\TilesetWork.cs" />
+    <Compile Include="GameObjects\PlatformEvent.cs" />
+    <Compile Include="GameObjects\EventSprite.cs" />
+    <Compile Include="GameObjects\GameEventSpriteBase.cs" />
+    <Compile Include="GameObjects\GameObjectPool.cs" />
+    <Compile Include="GameObjects\IJumpManager.cs" />
+    <Compile Include="GameObjects\IMoveManager.cs" />
+    <Compile Include="GameObjects\Particles\ImageParticle.cs" />
+    <Compile Include="GameObjects\Particles\Particle.cs" />
+    <Compile Include="GameObjects\Particles\ParticlePools.cs" />
+    <Compile Include="GameObjects\BodyCollection.cs" />
+    <Compile Include="GameObjects\GameEvent.cs" />
+    <Compile Include="GameObjects\GameObject.cs" />
+    <Compile Include="GameObjects\PhysicalObject.cs" />
+    <Compile Include="GameObjects\Player\PlayerSprite.cs" />
+    <Compile Include="GameObjects\Player\AnimationStateManager.cs" />
+    <Compile Include="GameObjects\Player\Combos\ChainComboNode.cs" />
+    <Compile Include="GameObjects\Player\PlayerMoveManagerOld.cs" />
+    <Compile Include="GameObjects\Player\Player.cs" />
+    <Compile Include="GameObjects\Player\Combos\ChainCombo.cs" />
+    <Compile Include="GameObjects\Player\PlayerJumpManager.cs" />
+    <Compile Include="GameObjects\Player\PlayerMoveManager.cs" />
+    <Compile Include="GameObjects\Scripting\Action.cs" />
+    <Compile Include="GameObjects\Scripting\ActionCollection.cs" />
+    <Compile Include="GameObjects\Scripting\CommandQueue.cs" />
+    <Compile Include="GameObjects\Scripting\CommandSet.ActionFactory.cs" />
+    <Compile Include="GameObjects\Scripting\CommandSet.ConditionFactory.cs" />
+    <Compile Include="GameObjects\Scripting\CommandSet.cs" />
+    <Compile Include="GameObjects\Scripting\CommandSet.FlowFactory.cs" />
+    <Compile Include="GameObjects\Scripting\CommandSetContext.cs" />
+    <Compile Include="GameObjects\Scripting\Condition.cs" />
+    <Compile Include="GameObjects\Scripting\ConditionCollection.cs" />
+    <Compile Include="GameObjects\Scripting\IExecutable.cs" />
+    <Compile Include="GameObjects\Scripting\IfAction.cs" />
+    <Compile Include="GameObjects\Shoots\GatlingShoot.cs" />
+    <Compile Include="GameObjects\Shoots\ShootPools.cs" />
+    <Compile Include="GameObjects\Shoots\Shoot.cs" />
+    <Compile Include="GeomHelper.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="Input.cs" />
+    <Compile Include="IScene.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ressources\ContentRessourceProvider.cs" />
+    <Compile Include="Ressources\FileRessourceProvider.cs" />
+    <Compile Include="Ressources\GameDatabase.cs" />
+    <Compile Include="Ressources\RessourceProvider.cs" />
+    <Compile Include="SceneDebug.cs" />
+    <Compile Include="SceneGame.cs" />
+    <Compile Include="UeF.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameData\GameData.csproj">
+      <Project>{B376D28C-1E50-49FE-9560-8735E0F6C4A7}</Project>
+      <Name>GameData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Geex.Edit.Common\Geex.Edit.Common.csproj">
+      <Project>{b6f61c15-5d02-4a11-a146-0678c334b274}</Project>
+      <Name>Geex.Edit.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,523 @@
+12:03:50  --  Generated Map Map0002.uefmap in 2698,4491ms.
+12:06:30  --  Generated Map Map0002.uefmap in 2895,3041ms.
+12:08:37  --  Generated Map Map0002.uefmap in 2776,5394ms.
+12:09:38  --  Generated Map Map0002.uefmap in 2574,1224ms.
+12:09:54  --  Generated Map Map0002.uefmap in 2723,8437ms.
+12:10:29  --  Generated Map Map0002.uefmap in 2645,6164ms.
+12:10:47  --  Generated Map Map0002.uefmap in 2648,6075ms.
+12:12:14  --  Generated Map Map0000.uefmap in 589,643ms.
+12:12:21  --  Generated Map Map0001.uefmap in 11335,0666ms.
+12:12:33  --  Generated Map Map0002.uefmap in 2634,7509ms.
+12:29:42  --  Generated Map Map0001.uefmap in 6804,8101ms.
+12:29:49  --  Generated Map Map0002.uefmap in 2717,8319ms.
+12:30:37  --  Generated Map Map0002.uefmap in 2828,5491ms.
+12:33:24  --  Generated Map Map0002.uefmap in 2779,2734ms.
+12:34:58  --  Generated Map Map0002.uefmap in 2736,2138ms.
+12:37:25  --  Generated Map Map0002.uefmap in 2835,891ms.
+12:37:53  --  Generated Map Map0002.uefmap in 2746,4155ms.
+12:38:59  --  Generated Map Map0002.uefmap in 2718,4502ms.
+12:39:43  --  Generated Map Map0002.uefmap in 2769,2615ms.
+12:43:05  --  Generated Map Map0000.uefmap in 566,987ms.
+12:43:06  --  Generated Map Map0001.uefmap in 7231,108ms.
+12:43:13  --  Generated Map Map0002.uefmap in 2600,5425ms.
+12:49:26  --  Generated Map Map0002.uefmap in 2984,0037ms.
+12:55:00  --  Generated Map Map0002.uefmap in 2254,507ms.
+16:51:51  --  Generated Map Map0000.uefmap in 274,8664ms.
+16:51:52  --  Generated Map Map0001.uefmap in 3359,7444ms.
+16:53:04  --  Generated Map Map0000.uefmap in 244,1715ms.
+16:53:04  --  Generated Map Map0001.uefmap in 3324,2742ms.
+17:34:28  --  Generated Map Map0000.uefmap in 260,1731ms.
+17:34:29  --  Generated Map Map0001.uefmap in 3974,1621ms.
+17:35:14  --  Generated Map Map0000.uefmap in 250,1664ms.
+17:35:14  --  Generated Map Map0001.uefmap in 3468,8441ms.
+17:35:49  --  Generated Map Map0000.uefmap in 290,6985ms.
+17:35:49  --  Generated Map Map0001.uefmap in 3583,9017ms.
+17:43:09  --  Generated Map Map0000.uefmap in 258,171ms.
+17:43:09  --  Generated Map Map0001.uefmap in 3657,4602ms.
+17:45:01  --  Generated Map Map0000.uefmap in 272,1845ms.
+17:45:01  --  Generated Map Map0001.uefmap in 3602,415ms.
+17:49:29  --  Generated Map Map0000.uefmap in 344,23ms.
+17:49:29  --  Generated Map Map0001.uefmap in 3401,3328ms.
+17:51:34  --  Generated Map Map0000.uefmap in 257,1726ms.
+17:51:35  --  Generated Map Map0001.uefmap in 3490,8468ms.
+13:56:58  --  Generated Map Map0000.uefmap in 856,0615ms.
+13:56:59  --  Generated Map Map0001.uefmap in 3804,0449ms.
+13:19:58  --  Generated Map Map0000.uefmap in 362,4746ms.
+13:19:59  --  Generated Map Map0001.uefmap in 3454,2865ms.
+13:24:46  --  Generated Map Map0000.uefmap in 234,165ms.
+13:24:46  --  Generated Map Map0001.uefmap in 3207,0573ms.
+13:27:57  --  Generated Map Map0000.uefmap in 237,1766ms.
+13:27:57  --  Generated Map Map0001.uefmap in 3280,2145ms.
+17:10:22  --  Generated Map Map0000.uefmap in 301,1982ms.
+17:10:22  --  Generated Map Map0001.uefmap in 3268,1691ms.
+17:27:43  --  Generated Map Map0000.uefmap in 237,1586ms.
+17:27:43  --  Generated Map Map0001.uefmap in 3482,313ms.
+22:36:08  --  Generated Map Map0000.uefmap in 459,7552ms.
+22:36:09  --  Generated Map Map0001.uefmap in 3207,1414ms.
+00:02:29  --  Generated Map Map0000.uefmap in 302,2003ms.
+00:02:29  --  Generated Map Map0001.uefmap in 4269,7706ms.
+00:03:57  --  Generated Map Map0000.uefmap in 315,2092ms.
+00:03:57  --  Generated Map Map0001.uefmap in 4144,523ms.
+00:41:35  --  Generated Map Map0000.uefmap in 716,4755ms.
+00:41:36  --  Generated Map Map0001.uefmap in 5774,8367ms.
+13:39:06  --  Generated Map Map0000.uefmap in 456,3039ms.
+18:08:07  --  Generated Map Map0004.uefmap in 447,3047ms.
+18:19:40  --  Generated Map Map0004.uefmap in 1247,3499ms.
+18:20:40  --  Generated Map Map0004.uefmap in 1256,329ms.
+18:21:23  --  Generated Map Map0004.uefmap in 1258,7799ms.
+18:22:02  --  Generated Map Map0004.uefmap in 1285,2598ms.
+18:22:18  --  Generated Map Map0004.uefmap in 1234,1489ms.
+18:32:59  --  Generated Map Map0004.uefmap in 1920,0224ms.
+18:58:25  --  Generated Map Map0000.uefmap in 675,4981ms.
+19:00:46  --  Generated Map Map0000.uefmap in 672,4487ms.
+19:04:53  --  Retourned Polygons Map0000.uefmapms.
+19:06:11  --  Generated Map Map0000.uefmap in 675,4464ms.
+19:09:02  --  Retourned Polygons Map0000.uefmap.
+19:12:05  --  Retourned Polygons Map0000.uefmap.
+19:12:17  --  Retourned Polygons Map0000.uefmap.
+19:13:32  --  Generated Map Map0000.uefmap in 759,5362ms.
+19:13:33  --  Generated Map Map0001.uefmap in 7814,165ms.
+19:13:40  --  Generated Map Map0002.uefmap in 1488,0242ms.
+19:13:42  --  Generated Map Map0004.uefmap in 1492,9909ms.
+22:20:19  --  Generated Map Map0000.uefmap in 1274,7983ms.
+22:20:21  --  Generated Map Map0001.uefmap in 13822,3948ms.
+22:20:34  --  Retourned Polygons Map0002.uefmap.
+22:20:34  --  Retourned Polygons Map0004.uefmap.
+23:53:05  --  Retourned Polygons Map0000.uefmap.
+23:53:05  --  Retourned Polygons Map0001.uefmap.
+23:53:05  --  Retourned Polygons Map0002.uefmap.
+23:53:06  --  Retourned Polygons Map0004.uefmap.
+10:51:23  --  Retourned Polygons Map0000.uefmap.
+10:51:23  --  Retourned Polygons Map0001.uefmap.
+10:51:23  --  Retourned Polygons Map0002.uefmap.
+10:51:23  --  Retourned Polygons Map0004.uefmap.
+13:21:48  --  Retourned Polygons Map0000.uefmap.
+13:21:48  --  Retourned Polygons Map0001.uefmap.
+13:21:48  --  Retourned Polygons Map0002.uefmap.
+13:21:48  --  Retourned Polygons Map0004.uefmap.
+13:22:47  --  Generated Map Map0005.uefmap in 968,7981ms.
+13:23:22  --  Generated Map Map0005.uefmap in 875,0438ms.
+13:37:29  --  Retourned Polygons Map0000.uefmap.
+13:37:29  --  Retourned Polygons Map0001.uefmap.
+13:37:29  --  Retourned Polygons Map0002.uefmap.
+13:37:29  --  Retourned Polygons Map0004.uefmap.
+13:37:29  --  Generated Map Map0005.uefmap in 859,4186ms.
+13:39:06  --  Retourned Polygons Map0000.uefmap.
+13:39:06  --  Retourned Polygons Map0001.uefmap.
+13:39:06  --  Retourned Polygons Map0002.uefmap.
+13:39:06  --  Retourned Polygons Map0004.uefmap.
+13:39:06  --  Generated Map Map0005.uefmap in 859,4186ms.
+13:40:03  --  Retourned Polygons Map0000.uefmap.
+13:40:03  --  Retourned Polygons Map0001.uefmap.
+13:40:03  --  Retourned Polygons Map0002.uefmap.
+13:40:03  --  Retourned Polygons Map0004.uefmap.
+13:40:03  --  Generated Map Map0005.uefmap in 984,4241ms.
+13:41:29  --  Retourned Polygons Map0000.uefmap.
+13:41:29  --  Retourned Polygons Map0001.uefmap.
+13:41:29  --  Retourned Polygons Map0002.uefmap.
+13:41:29  --  Retourned Polygons Map0004.uefmap.
+13:41:29  --  Generated Map Map0005.uefmap in 828,1634ms.
+13:45:22  --  Retourned Polygons Map0000.uefmap.
+13:45:22  --  Retourned Polygons Map0001.uefmap.
+13:45:22  --  Retourned Polygons Map0002.uefmap.
+13:45:22  --  Retourned Polygons Map0004.uefmap.
+13:45:22  --  Generated Map Map0005.uefmap in 843,7939ms.
+13:49:14  --  Retourned Polygons Map0000.uefmap.
+13:49:14  --  Retourned Polygons Map0001.uefmap.
+13:49:14  --  Retourned Polygons Map0002.uefmap.
+13:49:14  --  Retourned Polygons Map0004.uefmap.
+13:49:14  --  Generated Map Map0005.uefmap in 859,4166ms.
+14:39:05  --  Retourned Polygons Map0000.uefmap.
+14:39:05  --  Retourned Polygons Map0001.uefmap.
+14:39:05  --  Retourned Polygons Map0002.uefmap.
+14:39:05  --  Retourned Polygons Map0004.uefmap.
+14:39:05  --  Generated Map Map0005.uefmap in 875,0438ms.
+22:36:44  --  Retourned Polygons Map0000.uefmap.
+22:36:46  --  Retourned Polygons Map0001.uefmap.
+22:36:48  --  Retourned Polygons Map0002.uefmap.
+22:36:50  --  Retourned Polygons Map0004.uefmap.
+22:36:52  --  Generated Map Map0005.uefmap in 4673,1119ms.
+22:40:59  --  Retourned Polygons Map0000.uefmap.
+22:40:59  --  Retourned Polygons Map0001.uefmap.
+22:40:59  --  Retourned Polygons Map0002.uefmap.
+22:40:59  --  Retourned Polygons Map0004.uefmap.
+22:41:00  --  Generated Map Map0005.uefmap in 1056,7028ms.
+22:43:23  --  Retourned Polygons Map0000.uefmap.
+22:43:23  --  Retourned Polygons Map0001.uefmap.
+22:43:23  --  Retourned Polygons Map0002.uefmap.
+22:43:23  --  Retourned Polygons Map0004.uefmap.
+22:43:23  --  Generated Map Map0005.uefmap in 1284,8555ms.
+22:47:31  --  Retourned Polygons Map0000.uefmap.
+22:47:31  --  Retourned Polygons Map0001.uefmap.
+22:47:31  --  Retourned Polygons Map0002.uefmap.
+22:47:31  --  Retourned Polygons Map0004.uefmap.
+22:47:31  --  Generated Map Map0005.uefmap in 1301,8663ms.
+22:49:41  --  Retourned Polygons Map0000.uefmap.
+22:49:41  --  Retourned Polygons Map0001.uefmap.
+22:49:42  --  Retourned Polygons Map0002.uefmap.
+22:49:42  --  Retourned Polygons Map0004.uefmap.
+22:49:42  --  Generated Map Map0005.uefmap in 1103,7348ms.
+22:52:04  --  Retourned Polygons Map0000.uefmap.
+22:52:04  --  Retourned Polygons Map0001.uefmap.
+22:52:04  --  Retourned Polygons Map0002.uefmap.
+22:52:04  --  Retourned Polygons Map0004.uefmap.
+22:52:04  --  Generated Map Map0005.uefmap in 1112,7401ms.
+11:29:32  --  Retourned Polygons Map0000.uefmap.
+11:29:32  --  Retourned Polygons Map0001.uefmap.
+11:29:32  --  Retourned Polygons Map0002.uefmap.
+11:29:32  --  Retourned Polygons Map0004.uefmap.
+11:29:32  --  Generated Map Map0005.uefmap in 897,8947ms.
+10:04:11  --  Generated Map Map0000.uefmap in 1220,9344ms.
+11:22:52  --  Generated Map Map0000.uefmap in 950,6342ms.
+11:22:53  --  Generated Map Map0001.uefmap in 9868,5726ms.
+11:23:03  --  Retourned Polygons Map0002.uefmap.
+11:23:03  --  Retourned Polygons Map0004.uefmap.
+11:23:03  --  Generated Map Map0005.uefmap in 1589,0581ms.
+11:25:51  --  Generated Map Map0004.uefmap in 1801,1997ms.
+11:28:52  --  Generated Map Map0000.uefmap in 841,5602ms.
+11:28:53  --  Generated Map Map0004.uefmap in 1785,1944ms.
+11:49:50  --  Generated Map Map0000.uefmap in 836,8227ms.
+11:49:51  --  Generated Map Map0001.uefmap in 8869,9113ms.
+11:50:00  --  Generated Map Map0004.uefmap in 1843,2298ms.
+11:55:22  --  Generated Map Map0000.uefmap in 848,565ms.
+11:55:23  --  Generated Map Map0001.uefmap in 8981,9814ms.
+11:55:32  --  Retourned Polygons Map0002.uefmap.
+11:55:32  --  Generated Map Map0004.uefmap in 2070,3791ms.
+11:55:34  --  Generated Map Map0005.uefmap in 1278,8507ms.
+12:00:03  --  Generated Map Map0004.uefmap in 2461,1296ms.
+12:01:13  --  Generated Map Map0004.uefmap in 2421,6133ms.
+12:13:32  --  Generated Map Map0000.uefmap in 843,5599ms.
+12:13:33  --  Generated Map Map0001.uefmap in 8805,8613ms.
+12:13:41  --  Retourned Polygons Map0002.uefmap.
+12:13:42  --  Generated Map Map0004.uefmap in 1820,2176ms.
+12:13:43  --  Generated Map Map0005.uefmap in 1235,8239ms.
+12:14:53  --  Generated Map Map0004.uefmap in 2423,6216ms.
+12:18:19  --  Generated Map Map0004.uefmap in 2397,5952ms.
+12:19:11  --  Generated Map Map0004.uefmap in 2459,1443ms.
+12:20:00  --  Generated Map Map0004.uefmap in 2981,3948ms.
+12:21:06  --  Generated Map Map0004.uefmap in 2430,619ms.
+12:22:05  --  Generated Map Map0004.uefmap in 1775,9706ms.
+12:26:08  --  Generated Map Map0004.uefmap in 2503,1604ms.
+12:28:02  --  Generated Map Map0004.uefmap in 2369,5992ms.
+12:28:50  --  Generated Map Map0004.uefmap in 2403,1299ms.
+12:29:40  --  Generated Map Map0004.uefmap in 2330,5606ms.
+12:32:52  --  Generated Map Map0004.uefmap in 1784,2239ms.
+12:35:04  --  Generated Map Map0004.uefmap in 2401,8478ms.
+13:29:01  --  Generated Map Map0004.uefmap in 2495,892ms.
+16:40:12  --  Generated Map Map0000.uefmap in 840,5633ms.
+16:40:13  --  Generated Map Map0001.uefmap in 9020,0104ms.
+16:40:22  --  Retourned Polygons Map0002.uefmap.
+16:40:22  --  Generated Map Map0004.uefmap in 1800,1972ms.
+16:40:24  --  Generated Map Map0005.uefmap in 1213,8089ms.
+12:45:20  --  Generated Map Map0000.uefmap in 727,7605ms.
+12:45:22  --  Generated Map Map0001.uefmap in 6947,6271ms.
+12:45:29  --  Retourned Polygons Map0002.uefmap.
+12:45:29  --  Generated Map Map0004.uefmap in 1537,0283ms.
+12:45:31  --  Generated Map Map0005.uefmap in 892,5915ms.
+18:34:39  --  Generated Map Map0000.uefmap in 618,2254ms.
+18:34:40  --  Generated Map Map0001.uefmap in 6250,1707ms.
+18:34:46  --  Retourned Polygons Map0002.uefmap.
+18:34:46  --  Generated Map Map0004.uefmap in 1354,9022ms.
+18:34:48  --  Generated Map Map0005.uefmap in 1099,7313ms.
+13:52:42  --  Generated Map Map0000.uefmap in 598,4034ms.
+13:52:43  --  Generated Map Map0001.uefmap in 6167,1077ms.
+13:52:49  --  Retourned Polygons Map0002.uefmap.
+13:52:49  --  Generated Map Map0004.uefmap in 1270,7867ms.
+13:52:51  --  Generated Map Map0005.uefmap in 833,8073ms.
+13:55:11  --  Generated Map Map0000.uefmap in 597,4025ms.
+13:55:11  --  Generated Map Map0001.uefmap in 6345,7781ms.
+13:55:18  --  Retourned Polygons Map0002.uefmap.
+13:55:18  --  Generated Map Map0004.uefmap in 1301,899ms.
+13:55:19  --  Generated Map Map0005.uefmap in 869,5801ms.
+13:57:12  --  Generated Map Map0000.uefmap in 609,3785ms.
+13:57:13  --  Generated Map Map0001.uefmap in 6208,1431ms.
+13:57:19  --  Retourned Polygons Map0002.uefmap.
+13:57:19  --  Generated Map Map0004.uefmap in 1255,8376ms.
+13:57:21  --  Generated Map Map0005.uefmap in 875,582ms.
+13:57:50  --  Generated Map Map0000.uefmap in 598,4017ms.
+13:57:51  --  Generated Map Map0001.uefmap in 6251,1005ms.
+13:57:57  --  Retourned Polygons Map0002.uefmap.
+13:57:57  --  Generated Map Map0004.uefmap in 1284,858ms.
+13:57:59  --  Generated Map Map0005.uefmap in 843,5865ms.
+14:03:15  --  Generated Map Map0000.uefmap in 669,6011ms.
+14:03:15  --  Generated Map Map0001.uefmap in 6218,1457ms.
+14:03:22  --  Retourned Polygons Map0002.uefmap.
+14:03:22  --  Generated Map Map0004.uefmap in 1268,8449ms.
+14:03:23  --  Generated Map Map0005.uefmap in 822,5518ms.
+14:04:12  --  Generated Map Map0000.uefmap in 605,4321ms.
+14:04:13  --  Generated Map Map0001.uefmap in 6612,4074ms.
+14:04:20  --  Retourned Polygons Map0002.uefmap.
+14:04:20  --  Generated Map Map0004.uefmap in 1327,0309ms.
+14:04:21  --  Generated Map Map0005.uefmap in 872,581ms.
+21:20:53  --  Generated Map Map0000.uefmap in 590,4284ms.
+21:20:54  --  Generated Map Map0001.uefmap in 6224,6752ms.
+21:21:00  --  Retourned Polygons Map0002.uefmap.
+21:21:00  --  Generated Map Map0004.uefmap in 1344,1816ms.
+21:21:01  --  Generated Map Map0005.uefmap in 888,8343ms.
+18:00:24  --  Generated Map Map0000.uefmap in 632,6531ms.
+18:00:25  --  Generated Map Map0001.uefmap in 6613,8102ms.
+18:00:32  --  Retourned Polygons Map0002.uefmap.
+18:00:32  --  Generated Map Map0004.uefmap in 1356,1465ms.
+18:00:33  --  Generated Map Map0005.uefmap in 865,8233ms.
+19:39:33  --  Generated Map Map0000.uefmap in 1012,8213ms.
+19:44:09  --  Generated Map Map0000.uefmap in 1013,4325ms.
+19:44:10  --  Generated Map Map0001.uefmap in 9105,6572ms.
+19:44:19  --  Retourned Polygons Map0002.uefmap.
+19:44:19  --  Generated Map Map0004.uefmap in 1573,9895ms.
+19:44:21  --  Generated Map Map0005.uefmap in 1050,003ms.
+19:46:50  --  Generated Map Map0000.uefmap in 899,6185ms.
+19:47:32  --  Generated Map Map0000.uefmap in 888,1003ms.
+19:53:07  --  Generated Map Map0000.uefmap in 911,3087ms.
+19:54:04  --  Generated Map Map0000.uefmap in 597,4226ms.
+19:54:04  --  Generated Map Map0001.uefmap in 6237,1516ms.
+19:54:10  --  Retourned Polygons Map0002.uefmap.
+19:54:10  --  Generated Map Map0004.uefmap in 1322,3948ms.
+19:54:12  --  Generated Map Map0005.uefmap in 878,5875ms.
+19:55:38  --  Generated Map Map0000.uefmap in 895,5784ms.
+19:55:39  --  Generated Map Map0004.uefmap in 1456,3605ms.
+20:26:35  --  Generated Map Map0004.uefmap in 1637,5683ms.
+20:32:27  --  Generated Map Map0000.uefmap in 581,4013ms.
+20:32:28  --  Generated Map Map0004.uefmap in 1262,1002ms.
+20:37:24  --  Generated Map Map0000.uefmap in 579,423ms.
+20:37:24  --  Generated Map Map0004.uefmap in 1254,597ms.
+21:06:49  --  Generated Map Map0000.uefmap in 574,442ms.
+21:06:50  --  Generated Map Map0001.uefmap in 6007,7911ms.
+21:06:56  --  Retourned Polygons Map0002.uefmap.
+21:06:56  --  Generated Map Map0004.uefmap in 1232,8328ms.
+21:06:57  --  Generated Map Map0005.uefmap in 812,7787ms.
+11:52:01  --  Generated Map Map0004.uefmap in 1758,3509ms.
+12:07:52  --  Generated Map Map0000.uefmap in 871,8025ms.
+12:07:53  --  Generated Map Map0004.uefmap in 1487,447ms.
+12:08:20  --  Generated Map Map0004.uefmap in 1237,8505ms.
+12:28:07  --  Generated Map Map0000.uefmap in 1036,2892ms.
+12:28:08  --  Generated Map Map0004.uefmap in 1614,0771ms.
+12:33:03  --  Generated Map Map0000.uefmap in 577,1186ms.
+12:33:04  --  Generated Map Map0004.uefmap in 1242,87ms.
+12:35:10  --  Generated Map Map0000.uefmap in 583,4043ms.
+12:35:10  --  Generated Map Map0001.uefmap in 6165,29ms.
+12:35:17  --  Retourned Polygons Map0002.uefmap.
+12:35:17  --  Generated Map Map0004.uefmap in 1262,8509ms.
+12:35:18  --  Generated Map Map0005.uefmap in 845,5569ms.
+16:17:24  --  Generated Map Map0004.uefmap in 1554,035ms.
+13:09:44  --  Generated Map Map0000.uefmap in 668,4138ms.
+13:09:45  --  Generated Map Map0001.uefmap in 6011,7982ms.
+13:09:51  --  Retourned Polygons Map0002.uefmap.
+13:09:51  --  Generated Map Map0004.uefmap in 1220,8167ms.
+13:09:52  --  Generated Map Map0005.uefmap in 838,592ms.
+17:05:02  --  Generated Map Map0000.uefmap in 601,451ms.
+17:05:02  --  Generated Map Map0001.uefmap in 5987,9928ms.
+17:05:08  --  Retourned Polygons Map0002.uefmap.
+17:05:08  --  Generated Map Map0004.uefmap in 1276,8712ms.
+17:05:10  --  Generated Map Map0005.uefmap in 859,5721ms.
+16:32:09  --  Generated Map Map0000.uefmap in 772,5456ms.
+16:32:10  --  Generated Map Map0001.uefmap in 6585,4169ms.
+16:32:16  --  Retourned Polygons Map0002.uefmap.
+16:32:16  --  Generated Map Map0004.uefmap in 1259,8369ms.
+16:32:17  --  Generated Map Map0005.uefmap in 882,5865ms.
+17:47:19  --  Generated Map Map0000.uefmap in 602,5211ms.
+17:47:20  --  Generated Map Map0001.uefmap in 6153,162ms.
+17:47:26  --  Retourned Polygons Map0002.uefmap.
+17:47:26  --  Generated Map Map0004.uefmap in 1332,9165ms.
+17:47:28  --  Generated Map Map0005.uefmap in 841,568ms.
+18:07:10  --  Generated Map Map0004.uefmap in 1328,8847ms.
+18:20:10  --  Generated Map Map0004.uefmap in 1321,0469ms.
+18:23:23  --  Generated Map Map0004.uefmap in 1231,8445ms.
+18:29:41  --  Generated Map Map0004.uefmap in 1216,8397ms.
+18:33:32  --  Generated Map Map0004.uefmap in 1246,8994ms.
+18:46:56  --  Generated Map Map0004.uefmap in 1217,8619ms.
+18:48:44  --  Generated Map Map0004.uefmap in 1213,1667ms.
+18:50:08  --  Generated Map Map0004.uefmap in 1228,8517ms.
+18:56:20  --  Generated Map Map0004.uefmap in 1266,8651ms.
+18:57:11  --  Generated Map Map0004.uefmap in 1233,875ms.
+19:23:28  --  Generated Map Map0004.uefmap in 1621,7425ms.
+15:14:35  --  Generated Map Map0000.uefmap in 600,6914ms.
+15:14:36  --  Generated Map Map0001.uefmap in 6073,4247ms.
+15:14:42  --  Retourned Polygons Map0002.uefmap.
+15:14:42  --  Generated Map Map0004.uefmap in 1290,1691ms.
+15:14:43  --  Generated Map Map0005.uefmap in 888,523ms.
+15:27:15  --  Generated Map Map0000.uefmap in 672,8332ms.
+15:27:16  --  Generated Map Map0001.uefmap in 6254,6227ms.
+15:27:22  --  Retourned Polygons Map0002.uefmap.
+15:27:22  --  Generated Map Map0004.uefmap in 1281,3021ms.
+15:27:24  --  Generated Map Map0005.uefmap in 840,7173ms.
+16:49:18  --  Generated Map Map0000.uefmap in 691,4597ms.
+16:49:19  --  Generated Map Map0001.uefmap in 6404,2497ms.
+16:49:25  --  Retourned Polygons Map0002.uefmap.
+16:49:25  --  Generated Map Map0004.uefmap in 1330,8825ms.
+16:49:27  --  Generated Map Map0005.uefmap in 901,5995ms.
+21:28:36  --  Generated Map Map0004.uefmap in 1319,8918ms.
+21:50:16  --  Generated Map Map0004.uefmap in 1333,8834ms.
+21:51:11  --  Generated Map Map0003.uefmap in 2276,4521ms.
+21:57:15  --  Generated Map Map0000.uefmap in 575,4004ms.
+21:57:16  --  Generated Map Map0001.uefmap in 6338,3241ms.
+21:57:22  --  Retourned Polygons Map0002.uefmap.
+21:57:22  --  Generated Map Map0003.uefmap in 2299,5464ms.
+21:57:24  --  Generated Map Map0004.uefmap in 1238,7262ms.
+21:57:26  --  Generated Map Map0005.uefmap in 830,5555ms.
+21:58:37  --  Generated Map Map0000.uefmap in 702,5005ms.
+21:58:38  --  Generated Map Map0001.uefmap in 6100,0581ms.
+21:58:44  --  Retourned Polygons Map0002.uefmap.
+21:58:44  --  Generated Map Map0003.uefmap in 2400,5919ms.
+21:58:46  --  Generated Map Map0004.uefmap in 1249,8285ms.
+21:58:47  --  Generated Map Map0005.uefmap in 828,548ms.
+08:54:32  --  Generated Map Map0004.uefmap in 3093,0887ms.
+19:43:07  --  Generated Map Map0000.uefmap in 703,1579ms.
+19:43:07  --  Generated Map Map0001.uefmap in 6253,2464ms.
+19:43:14  --  Retourned Polygons Map0002.uefmap.
+19:43:14  --  Generated Map Map0003.uefmap in 2609,3275ms.
+19:43:16  --  Generated Map Map0004.uefmap in 1337,2029ms.
+19:43:18  --  Generated Map Map0005.uefmap in 883,4431ms.
+19:25:25  --  Generated Map Map0000.uefmap in 678,6522ms.
+19:25:25  --  Generated Map Map0001.uefmap in 5993,9717ms.
+19:25:31  --  Retourned Polygons Map0002.uefmap.
+19:25:31  --  Generated Map Map0003.uefmap in 2289,5437ms.
+19:25:34  --  Generated Map Map0004.uefmap in 1304,8392ms.
+19:25:35  --  Generated Map Map0005.uefmap in 890,5985ms.
+19:26:29  --  Generated Map Map0000.uefmap in 577,4194ms.
+19:26:30  --  Generated Map Map0001.uefmap in 5983,9803ms.
+19:26:36  --  Retourned Polygons Map0002.uefmap.
+19:26:36  --  Generated Map Map0003.uefmap in 2337,5616ms.
+19:26:38  --  Generated Map Map0004.uefmap in 1266,5524ms.
+19:26:40  --  Generated Map Map0005.uefmap in 848,2673ms.
+15:45:59  --  Generated Map Map0000.uefmap in 1484,4471ms.
+15:46:01  --  Generated Map Map0001.uefmap in 14547,649ms.
+15:46:15  --  Retourned Polygons Map0002.uefmap.
+15:46:15  --  Generated Map Map0003.uefmap in 5562,9445ms.
+15:46:21  --  Generated Map Map0004.uefmap in 3031,4048ms.
+15:46:24  --  Generated Map Map0005.uefmap in 2031,3543ms.
+18:43:54  --  Generated Map Map0000.uefmap in 781,2851ms.
+18:43:55  --  Generated Map Map0001.uefmap in 6359,6786ms.
+18:44:01  --  Retourned Polygons Map0002.uefmap.
+18:44:02  --  Generated Map Map0003.uefmap in 2672,0032ms.
+18:44:04  --  Generated Map Map0004.uefmap in 1593,8254ms.
+18:44:06  --  Generated Map Map0005.uefmap in 953,1653ms.
+16:32:29  --  Generated Map Map0000.uefmap in 730,0087ms.
+16:32:29  --  Generated Map Map0001.uefmap in 7655,6692ms.
+16:32:37  --  Retourned Polygons Map0002.uefmap.
+16:32:37  --  Generated Map Map0003.uefmap in 2829,8947ms.
+16:32:40  --  Generated Map Map0004.uefmap in 1483,0076ms.
+16:32:42  --  Generated Map Map0005.uefmap in 1015,7027ms.
+20:10:54  --  Generated Map Map0000.uefmap in 920,0381ms.
+20:10:55  --  Generated Map Map0001.uefmap in 6221,3305ms.
+20:11:01  --  Retourned Polygons Map0002.uefmap.
+20:11:01  --  Generated Map Map0003.uefmap in 2401,6748ms.
+20:11:04  --  Generated Map Map0004.uefmap in 1276,852ms.
+20:11:05  --  Generated Map Map0005.uefmap in 846,1336ms.
+20:12:44  --  Generated Map Map0000.uefmap in 846,2744ms.
+20:12:45  --  Generated Map Map0001.uefmap in 7950,2473ms.
+20:12:53  --  Retourned Polygons Map0002.uefmap.
+20:12:53  --  Generated Map Map0003.uefmap in 2744,855ms.
+20:12:56  --  Generated Map Map0004.uefmap in 1472,0853ms.
+20:12:58  --  Generated Map Map0005.uefmap in 1047,1327ms.
+20:13:27  --  Generated Map Map0000.uefmap in 595,4326ms.
+20:13:28  --  Generated Map Map0001.uefmap in 6202,4984ms.
+20:13:34  --  Retourned Polygons Map0002.uefmap.
+20:13:34  --  Generated Map Map0003.uefmap in 2320,536ms.
+20:13:36  --  Generated Map Map0004.uefmap in 1256,847ms.
+20:13:37  --  Generated Map Map0005.uefmap in 830,5019ms.
+20:13:51  --  Generated Map Map0000.uefmap in 592,403ms.
+20:13:52  --  Generated Map Map0001.uefmap in 6113,0698ms.
+20:13:58  --  Retourned Polygons Map0002.uefmap.
+20:13:58  --  Generated Map Map0003.uefmap in 2340,564ms.
+20:14:00  --  Generated Map Map0004.uefmap in 1288,894ms.
+20:14:01  --  Generated Map Map0005.uefmap in 823,5677ms.
+22:40:36  --  Generated Map Map0000.uefmap in 653,3667ms.
+22:43:15  --  Generated Map Map0000.uefmap in 645,4231ms.
+22:51:11  --  Generated Map Map0000.uefmap in 698,8193ms.
+22:59:29  --  Generated Map Map0000.uefmap in 720,3556ms.
+23:05:22  --  Generated Map Map0000.uefmap in 732,4945ms.
+23:05:23  --  Generated Map Map0001.uefmap in 6217,1263ms.
+23:05:29  --  Generated Map Map0002.uefmap in 1123,6039ms.
+23:05:30  --  Generated Map Map0003.uefmap in 2374,5816ms.
+23:05:33  --  Generated Map Map0004.uefmap in 1289,8592ms.
+23:05:34  --  Generated Map Map0005.uefmap in 883,6041ms.
+23:09:00  --  Generated Map Map0000.uefmap in 714,4904ms.
+23:09:19  --  Generated Map Map0000.uefmap in 726,5007ms.
+23:10:43  --  Generated Map Map0000.uefmap in 714,4858ms.
+23:13:02  --  Generated Map Map0000.uefmap in 694,4993ms.
+23:18:27  --  Generated Map Map0000.uefmap in 715,4924ms.
+23:46:46  --  Generated Map Map0000.uefmap in 2641,0587ms.
+23:46:49  --  Generated Map Map0001.uefmap in 18612,2138ms.
+23:47:08  --  Generated Map Map0002.uefmap in 3077,2002ms.
+23:47:11  --  Generated Map Map0003.uefmap in 6573,7411ms.
+23:47:18  --  Generated Map Map0004.uefmap in 3532,534ms.
+23:47:21  --  Generated Map Map0005.uefmap in 2413,5711ms.
+23:49:37  --  Generated Map Map0000.uefmap in 1885,0123ms.
+23:49:39  --  Generated Map Map0001.uefmap in 15598,9636ms.
+23:49:55  --  Generated Map Map0002.uefmap in 2659,1352ms.
+23:49:57  --  Generated Map Map0003.uefmap in 4232,8775ms.
+23:50:02  --  Generated Map Map0004.uefmap in 1237,8313ms.
+23:50:03  --  Generated Map Map0005.uefmap in 871,0966ms.
+23:51:20  --  Generated Map Map0000.uefmap in 1735,2996ms.
+23:51:22  --  Generated Map Map0001.uefmap in 15113,2171ms.
+23:51:38  --  Generated Map Map0002.uefmap in 2655,8152ms.
+23:51:40  --  Generated Map Map0003.uefmap in 5771,9335ms.
+23:51:46  --  Generated Map Map0004.uefmap in 3119,1994ms.
+23:51:49  --  Generated Map Map0005.uefmap in 2044,9196ms.
+23:55:12  --  Generated Map Map0000.uefmap in 1711,9491ms.
+08:47:33  --  Generated Map Map0000.uefmap in 794,5261ms.
+08:47:35  --  Generated Map Map0001.uefmap in 6279,1374ms.
+08:47:41  --  Generated Map Map0002.uefmap in 1199,7975ms.
+08:47:42  --  Generated Map Map0003.uefmap in 2293,5273ms.
+08:47:45  --  Generated Map Map0004.uefmap in 1268,8427ms.
+08:47:46  --  Generated Map Map0005.uefmap in 825,5608ms.
+18:16:29  --  Generated Map Map0001.uefmap in 17133,8735ms.
+18:16:46  --  Generated Map Map0002.uefmap in 3490,3173ms.
+18:39:45  --  Generated Map Map0001.uefmap in 15681,7794ms.
+18:40:01  --  Generated Map Map0002.uefmap in 2729,9561ms.
+18:40:04  --  Generated Map Map0003.uefmap in 308,2851ms.
+18:40:04  --  Generated Map Map0004.uefmap in 3323,2895ms.
+18:40:07  --  Generated Map Map0005.uefmap in 301,3705ms.
+11:31:18  --  Generated Map Map0001.uefmap in 6819,692ms.
+11:31:25  --  Generated Map Map0002.uefmap in 1195,0715ms.
+11:31:26  --  Generated Map Map0003.uefmap in 124,0819ms.
+11:31:26  --  Generated Map Map0004.uefmap in 1587,0539ms.
+11:31:28  --  Generated Map Map0005.uefmap in 125,0837ms.
+15:36:58  --  Generated Map Map0002.uefmap in 1289,9056ms.
+12:09:07  --  Generated Map Map0001.uefmap in 6994,0034ms.
+12:09:15  --  Generated Map Map0002.uefmap in 1242,9128ms.
+12:09:16  --  Generated Map Map0003.uefmap in 125,0931ms.
+12:09:16  --  Generated Map Map0004.uefmap in 1403,0939ms.
+12:09:17  --  Generated Map Map0005.uefmap in 134,094ms.
+18:15:38  --  Generated Map Map0001.uefmap in 16326,9075ms.
+18:15:55  --  Generated Map Map0002.uefmap in 2728,9327ms.
+18:15:58  --  Generated Map Map0003.uefmap in 310,153ms.
+18:15:58  --  Generated Map Map0004.uefmap in 3521,3922ms.
+18:16:02  --  Generated Map Map0005.uefmap in 323,1006ms.
+19:12:53  --  Generated Map Map0001.uefmap in 19331,1712ms.
+19:13:14  --  Generated Map Map0002.uefmap in 3162,2743ms.
+19:13:17  --  Generated Map Map0003.uefmap in 376,3528ms.
+19:13:18  --  Generated Map Map0004.uefmap in 3609,4454ms.
+19:13:21  --  Generated Map Map0005.uefmap in 373,2102ms.
+19:14:08  --  Generated Map Map0001.uefmap in 14903,8135ms.
+19:14:23  --  Generated Map Map0002.uefmap in 2670,6343ms.
+19:14:26  --  Generated Map Map0003.uefmap in 289,2127ms.
+19:14:26  --  Generated Map Map0004.uefmap in 3202,1428ms.
+19:14:29  --  Generated Map Map0005.uefmap in 294,3665ms.
+19:15:26  --  Generated Map Map0001.uefmap in 15692,4481ms.
+19:15:42  --  Generated Map Map0002.uefmap in 2902,9259ms.
+19:15:45  --  Generated Map Map0003.uefmap in 316,4152ms.
+19:15:46  --  Generated Map Map0004.uefmap in 3630,3007ms.
+19:15:49  --  Generated Map Map0005.uefmap in 324,8786ms.
+19:17:42  --  Generated Map Map0001.uefmap in 14982,9914ms.
+19:17:57  --  Generated Map Map0002.uefmap in 2845,887ms.
+23:12:23  --  Generated Map Map0001.uefmap in 8384,6801ms.
+23:12:32  --  Generated Map Map0002.uefmap in 1313,0382ms.
+23:12:33  --  Generated Map Map0003.uefmap in 168,1116ms.
+23:12:33  --  Generated Map Map0004.uefmap in 1617,1036ms.
+23:12:35  --  Generated Map Map0005.uefmap in 145,0961ms.
+23:14:05  --  Generated Map Map0001.uefmap in 7742,0892ms.
+23:14:13  --  Generated Map Map0002.uefmap in 1442,9564ms.
+23:14:14  --  Generated Map Map0003.uefmap in 148,105ms.
+23:14:15  --  Generated Map Map0004.uefmap in 1550,7006ms.
+23:14:16  --  Generated Map Map0005.uefmap in 143,1038ms.
+17:10:01  --  Generated Map Map0001.uefmap in 8586,0149ms.
+17:10:10  --  Generated Map Map0002.uefmap in 1386,1965ms.
+17:10:12  --  Generated Map Map0003.uefmap in 165,2099ms.
+17:10:12  --  Generated Map Map0004.uefmap in 1533,8111ms.
+17:10:13  --  Generated Map Map0005.uefmap in 145,6581ms.
+17:17:15  --  Generated Map Map0001.uefmap in 7980,8977ms.
+17:17:23  --  Generated Map Map0002.uefmap in 1330,4754ms.
+17:17:24  --  Generated Map Map0003.uefmap in 162,2772ms.
+17:17:25  --  Generated Map Map0004.uefmap in 1410,6365ms.
+17:17:26  --  Generated Map Map0005.uefmap in 137,8384ms.

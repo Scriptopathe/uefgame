@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7327B52-BAC3-476F-ABA9-6401A496E0DE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Geex.Edit.UeF</RootNamespace>
+    <AssemblyName>Geex.Edit.UeF</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Geex\Geex.Edit\Geex.Edit\Geex.Edit\bin\x86\Debug\Modules\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FarseerPhysics, Version=3.3.4972.18845, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\[DLL]\FarseerPhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.TextEditor">
+      <HintPath>..\[DLL]\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Engine" />
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\ListViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\TextEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TextEditor.Designer.cs">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graphics\GraphicsManager.cs" />
+    <Compile Include="Graphics\PanoramaRenderer.cs" />
+    <Compile Include="Graphics\RenderOptions.cs" />
+    <Compile Include="Graphics\Cursor.cs" />
+    <Compile Include="Graphics\Sprite.cs" />
+    <Compile Include="Graphics\TileRenderer.cs" />
+    <Compile Include="MainForm\LateralPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForm\LateralPanel.Designer.cs">
+      <DependentUpon>LateralPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\GameObjectPicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainForm\GameObjectPicker.Designer.cs">
+      <DependentUpon>GameObjectPicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\UIHandler.cs" />
+    <Compile Include="MainForm\UeFMapTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MapView\Controler.cs" />
+    <Compile Include="MapView\ControlerState.cs" />
+    <Compile Include="MapView\MacroUnit.cs" />
+    <Compile Include="MapView\MapView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MapView\TileDataSnapshot.cs" />
+    <Compile Include="MapView\TileMacroUnit.cs" />
+    <Compile Include="ModuleDeclaration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RessourceManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UeFGlobals.cs" />
+    <Compile Include="Views\Controls\GraphicsParser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Controls\GraphicsParser.Designer.cs">
+      <DependentUpon>GraphicsParser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\GraphicsParserButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ErrorsListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\ErrorsListView.Designer.cs">
+      <DependentUpon>ErrorsListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GameObjectPropertiesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GameObjectPropertiesView.Designer.cs">
+      <DependentUpon>GameObjectPropertiesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MapPropertiesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MapPropertiesForm.Designer.cs">
+      <DependentUpon>MapPropertiesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ObjectEditControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\ObjectEditControl.Designer.cs">
+      <DependentUpon>ObjectEditControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TilePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Views\TilesetMaskView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\TilesetsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TilesetsForm.Designer.cs">
+      <DependentUpon>TilesetsForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameData\GameData.csproj">
+      <Project>{b376d28c-1e50-49fe-9560-8735e0f6c4a7}</Project>
+      <Name>GameData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Geex.Edit.Common\Geex.Edit.Common.csproj">
+      <Project>{b6f61c15-5d02-4a11-a146-0678c334b274}</Project>
+      <Name>Geex.Edit.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Geex.Edit.UeF.Project\Geex.Edit.UeF.Project.csproj">
+      <Project>{3937CE74-5D31-42E4-854D-7CC665D8683B}</Project>
+      <Name>Geex.Edit.UeF.Project</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MapImporter\ContentPipeline.csproj">
+      <Project>{3B0CC5B1-2DBB-442D-83B6-77756E29239E}</Project>
+      <Name>ContentPipeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shared\Shared.csproj">
+      <Project>{acf37cdc-3486-4222-9176-ae3a400aadd9}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\TextEditor.resx">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\LateralPanel.resx">
+      <DependentUpon>LateralPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\GameObjectPicker.resx">
+      <DependentUpon>GameObjectPicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Controls\GraphicsParser.resx">
+      <DependentUpon>GraphicsParser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ErrorsListView.resx">
+      <DependentUpon>ErrorsListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GameObjectPropertiesView.resx">
+      <DependentUpon>GameObjectPropertiesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MapPropertiesForm.resx">
+      <DependentUpon>MapPropertiesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ObjectEditControl.resx">
+      <DependentUpon>ObjectEditControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TilesetsForm.resx">
+      <DependentUpon>TilesetsForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Database\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

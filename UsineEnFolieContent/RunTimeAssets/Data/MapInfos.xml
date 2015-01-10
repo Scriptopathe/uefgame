@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfMapInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapInfo>
+    <Name>Test</Name>
+    <ParentId>-1</ParentId>
+    <Id>0</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>New map</Name>
+    <ParentId>-1</ParentId>
+    <Id>1</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>Test plateformes</Name>
+    <ParentId>-1</ParentId>
+    <Id>2</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>New map</Name>
+    <ParentId>-1</ParentId>
+    <Id>3</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>Map de la mort</Name>
+    <ParentId>-1</ParentId>
+    <Id>4</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>default</Name>
+    <ParentId>-1</ParentId>
+    <Id>5</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>default</Name>
+    <ParentId>-1</ParentId>
+    <Id>6</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>default</Name>
+    <ParentId>-1</ParentId>
+    <Id>7</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>default</Name>
+    <ParentId>-1</ParentId>
+    <Id>8</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+  <MapInfo>
+    <Name>default</Name>
+    <ParentId>-1</ParentId>
+    <Id>9</Id>
+    <Order>0</Order>
+    <Expanded>false</Expanded>
+  </MapInfo>
+</ArrayOfMapInfo>

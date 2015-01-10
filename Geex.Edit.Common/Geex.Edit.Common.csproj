@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6F61C15-5D02-4A11-A146-0678C334B274}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Geex.Edit.Common</RootNamespace>
+    <AssemblyName>Geex.Edit.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extensibility\AssemblyManager.cs" />
+    <Compile Include="Tools\ArrayCopy.cs" />
+    <Compile Include="Tools\Audio\AudioPlayer.cs" />
+    <Compile Include="Project\ContentWork.cs" />
+    <Compile Include="Tools\Controls\AdvancedPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\AdvancedPictureBoxPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\DictionaryDisplayer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\DictionaryDisplayer.Designer.cs">
+      <DependentUpon>DictionaryDisplayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Controls\GraphicsParser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\GraphicsParser.Designer.cs">
+      <DependentUpon>GraphicsParser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Controls\ListViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\ObjectEditControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\ObjectEditControl.Designer.cs">
+      <DependentUpon>ObjectEditControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Controls\PicturePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\RessourcesManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\RessourcesManagerForm.Designer.cs">
+      <DependentUpon>RessourcesManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Controls\SliderUpDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\Controls\SliderUpDown.Designer.cs">
+      <DependentUpon>SliderUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ErrorReporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Extensibility\IModuleDeclaration.cs" />
+    <Compile Include="MainForm\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Graphics\Bitmap.cs" />
+    <Compile Include="Tools\Graphics\SystemBitmapCache.cs" />
+    <Compile Include="GeexSettings.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="Lang.cs" />
+    <Compile Include="MainForm\IUIManager.cs" />
+    <Compile Include="Tools\Controls\MapTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MapView\IMapView.cs" />
+    <Compile Include="Tools\MacroRecorder.cs" />
+    <Compile Include="Project\Database.cs" />
+    <Compile Include="Project\GeexProject.cs" />
+    <Compile Include="Project\MapInfo.cs" />
+    <Compile Include="Project\DatabaseExtension.cs" />
+    <Compile Include="Project\ProjectIdentifier.cs" />
+    <Compile Include="Project\ValidityState.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AppRessources.cs" />
+    <Compile Include="Tools\Benchmark.cs" />
+    <Compile Include="Tools\FileHelper.cs" />
+    <Compile Include="Tools\Geometry.cs" />
+    <Compile Include="Tools\ObjectCache.cs" />
+    <Compile Include="Tools\Serializer.cs" />
+    <Compile Include="Tools\WinformsMisc.cs" />
+    <Compile Include="Version.cs" />
+    <Compile Include="XnaControl\GraphicsDeviceControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XnaControl\GraphicsDeviceService.cs" />
+    <Compile Include="XnaControl\ServiceContainer.cs" />
+    <Compile Include="XnaControl\XnaFrameworkDispatcherService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Tools\Controls\AdvancedPictureBoxPanel.resx">
+      <DependentUpon>AdvancedPictureBoxPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Controls\DictionaryDisplayer.resx">
+      <DependentUpon>DictionaryDisplayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Controls\GraphicsParser.resx">
+      <DependentUpon>GraphicsParser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Controls\ObjectEditControl.resx">
+      <DependentUpon>ObjectEditControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Controls\RessourcesManagerForm.resx">
+      <DependentUpon>RessourcesManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\Controls\SliderUpDown.resx">
+      <DependentUpon>SliderUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

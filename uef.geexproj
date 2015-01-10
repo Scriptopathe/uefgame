@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<GeexProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ContentProjectFilename>UsineEnFolieContent\UsineEnFolieContent.contentproj</ContentProjectFilename>
+  <CsProjectFilename>UsineEnFolie\UsineEnFolie.csproj</CsProjectFilename>
+  <Identifier>
+    <TypeFullName>Geex.Edit.UeF.Project.UeFGeexProject</TypeFullName>
+    <AssemblyName>Geex.Edit.UeF.Project</AssemblyName>
+    <Version>
+      <compatibility>0</compatibility>
+      <release>0</release>
+      <major>0</major>
+      <minor>0</minor>
+    </Version>
+    <KindName>Geex-UeF</KindName>
+  </Identifier>
+  <ProjectName>L'Usine en Folie</ProjectName>
+  <PreferedModuleName />
+</GeexProject>

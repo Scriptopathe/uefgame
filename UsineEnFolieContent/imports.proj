@@ -1,0 +1,14 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+<ItemGroup>
+  <WildcardContent Include="RunTimeAssets\Graphics\**\*.png">
+    <Importer>TextureImporter</Importer>
+    <Processor>TextureProcessor</Processor>
+  </WildcardContent>
+</ItemGroup>
+
+<Target Name="BeforeBuild">
+  <CreateItem Include="@(WildcardContent)" AdditionalMetadata="Name=%(FileName)">
+    <Output TaskParameter="Include" ItemName="Compile" />
+  </CreateItem>
+</Target>
+</Project>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StartMapId>0</StartMapId>
+  <Resolution>
+    <Width>1366</Width>
+    <Height>800</Height>
+  </Resolution>
+  <PlayerStartPositionSim>
+    <X>2.27499986</X>
+    <Y>1.78</Y>
+  </PlayerStartPositionSim>
+</Config>

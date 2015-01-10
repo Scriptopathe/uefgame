@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using ValidityState = Geex.Edit.Common.Project.ValidityState;
+namespace Geex.Edit.Rpg.Project
+{
+    /// <summary>
+    /// Provides quick access to Game ressources.
+    /// </summary>
+    public class RpgGameRessources : Common.GameRessources
+    {
+        /// <summary>
+        /// Returns the path to the tileset with the given index
+        /// </summary>
+        /// <param name="index"></param>
+        /// <returns></returns>
+        public static string RpgTilesetFileName(int index)
+        {
+            Project.RpgProjectDataBase db = ((Project.RpgGeexProject)Common.Globals.Project).Database;
+            if (index >= db.Tilesets.Count)
+                index = 0;
+            return (RpgGlobals.RpgProject.TilesetDirectory + "\\" +
+                db.Tilesets[index].TilesetName);
+        }
+
+
+        /// <summary>
+        /// Gets the validity of a graphics file.
+        /// </summary>
+        /// <param name="fullpath"></param>
+        /// <returns></returns>
+        public static ValidityState GetGraphicsFileValidity(string fullpath)
+        {
+            if (System.IO.File.Exists(fullpath))
+                if (Common.GeexOptions.SupportedBitmapExtensions.Contains(System.IO.Path.GetExtension(fullpath).Replace(".", "")))
+                    return ValidityState.OK;
+                else
+                    return ValidityState.Invalid;
+            else
+                return ValidityState.DoesNotExist;
+        }
+    }
+}

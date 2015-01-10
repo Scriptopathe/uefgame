@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Geex.Edit.Rpg
+{
+    public class RpgGlobals
+    {
+        /// <summary>
+        /// Shortcut to the RpgMapDataWrapper object.
+        /// </summary>
+        public static Project.RpgMapDataWrapper RpgMapDataWrapper
+        {
+            get
+            {
+               MapView.RpgMapView view = (MapView.RpgMapView)Common.Globals.MapView;
+                return (Project.RpgMapDataWrapper)view.MapDataWrapper;
+            }
+        }
+        /// <summary>
+        /// Shortcut to the RpgMapTreeView object
+        /// </summary>
+        public static MainForm.RpgMapTreeView RpgMapTreeView
+        {
+            get
+            {
+                return (MainForm.RpgMapTreeView)Common.Globals.MapTreeView;
+            }
+        }
+        /// <summary>
+        /// Shortcut to the RpgMapView object
+        /// </summary>
+        public static MapView.RpgMapView RpgMapView
+        {
+            get
+            {
+                return (MapView.RpgMapView)Common.Globals.MapView;
+            }
+        }
+        /// <summary>
+        /// Shortcut to the RpgControler object
+        /// </summary>
+        public static MapView.RpgMapViewControler RpgControler
+        {
+            get
+            {
+                return (MapView.RpgMapViewControler)RpgMapView.Controler;
+            }
+        }
+        /// <summary>
+        /// Shortcut to the RpgProject object
+        /// </summary>
+        public static Project.RpgGeexProject RpgProject
+        {
+            get
+            {
+                return (Project.RpgGeexProject)Common.Globals.Project;
+            }
+        }
+        /// <summary>
+        /// Shortcut to the RpgHandler object
+        /// </summary>
+        public static MainForm.RpgHandler RpgHandler
+        {
+            get
+            {
+                return (MainForm.RpgHandler)(Common.Globals.FormHandler);
+            }
+        }
+    }
+}

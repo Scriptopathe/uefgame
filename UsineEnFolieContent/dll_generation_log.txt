@@ -1,0 +1,573 @@
+Map :5 - Erreurs : 
+Line : 3Le type ou le nom d'espace de noms 'Xna' n'existe pas dans l'espace de noms 'Microsoft' (une référence d'assembly est-elle manquante ?)
+Line : 4Le type ou le nom d'espace de noms 'Xna' n'existe pas dans l'espace de noms 'Microsoft' (une référence d'assembly est-elle manquante ?)
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\FarseerPhysics.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\Shared.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\GameData.dll' est introuvable
+
+Map :5 - Erreurs : 
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\FarseerPhysics.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\Shared.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\GameData.dll' est introuvable
+
+Map :5 - Erreurs : 
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\FarseerPhysics.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\Shared.dll' est introuvable
+Line : 0Le fichier de métadonnées 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Modules\GameData.dll' est introuvable
+
+Map :5 - Erreurs : 
+Line : 0Le fichier de métadonnées 'FarseerPhysics.dll' est introuvable
+Line : 0Le fichier de métadonnées 'Shared.dll' est introuvable
+Line : 0Le fichier de métadonnées 'GameData.dll' est introuvable
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 13Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :1 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :4 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :5 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
+Map :0 - Erreurs : 
+Line : 5Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 6Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 7Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 8Le type ou le nom d'espace de noms 'FarseerPhysics' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+Line : 10Le type ou le nom d'espace de noms 'Scripting' n'existe pas dans l'espace de noms 'UeFGame.GameObjects' (une référence d'assembly est-elle manquante ?)
+Line : 14Le type ou le nom d'espace de noms 'GameObject' est introuvable (une directive using ou une référence d'assembly est-elle manquante ?)
+
